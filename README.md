@@ -9,6 +9,11 @@ This repository serves as a backup collection of various **Suitefish modules** t
 
 However, if you encounter any issues or bugs while using any of these modules, feel free to create an issue in this repository. This will help track and address problems, if necessary.
 
+Project Github: https://github.com/bugfishtm/suitefish-cms⁠  
+Project Documentation: https://bugfishtm.github.io/suitefish-cms⁠  
+Project Website: https://suitefish.com⁠  
+Bugfish Website: https://bugfish.eu⁠
+
 ## 📁 Repository Structure 
 
 This table provides an overview of key files and folders related to the repository. Click on the links to access each file for more detailed information. If certain folders are missing from the repository, they are irrelevant to this project.
