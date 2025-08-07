@@ -31,10 +31,14 @@ Here you can see reserved module "rname" values and namespaces. Request your own
 |------|------|---------|
 | Module | _sm* | Reserved for official site Modules. |
 | Module | sm* | Reserved for contributor site Modules. |
+| Module | _site | Developer example site module. |
+| Module | _administrator | Ófficial Suitefish-CMS  Default Administrator Module. |
 | Extension | _ext* | Reserved for official extension Modules. |
 | Extension | ext* | Reserved for contributor extension Modules. |
+| Extension | _extension | Developer example extension module. |
 | Docker | _dkr* | Reserved for official docker Modules. |
 | Docker | dkr* | Reserved for contributor docker Modules. |
+| Docker | _docker | Developer example docker module. |
 | Website | _img* | Reserved for official image Modules. |
 | Website | img* | Reserved for contributor image Modules. |
 | Website | _image | Developer example image module. |
